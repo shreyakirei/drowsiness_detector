@@ -19,8 +19,4 @@ A real-time webcam-based app that detects whether your eyes are open or closed u
 - Lightweight — no external model needed
 - Easy to run and deploy
 
-## 📸 Screenshot
-
-![Drowsiness Detection App](screenclose.png)
-
 
